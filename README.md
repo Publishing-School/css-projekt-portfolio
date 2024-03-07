@@ -7,5 +7,5 @@ Rozwiązanie - strona główna
 ![image info](./zadanie.png)
 
 Rozwiązanie - strona kontakt
-![image info](./zadanie.png)
+![image info](./zadanie-kontakt.png)
 
